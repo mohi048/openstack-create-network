@@ -70,6 +70,8 @@ Update the config.ini and update the following tags
 
 2. Network subnets
 
+Update the config.ini and update the following tags
+
     CIDR = 10.0.0.0/24
     IP_VERSION = 4
     GATEWAY_IP = 10.0.0.1
