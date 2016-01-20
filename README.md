@@ -61,19 +61,19 @@ Customizing the new network setup
 1. Network name
 Update the config.ini and update the following tags
 
-       [PRIVATE_NETWORK_DETAILS]
-       NAME = My_Custom_network
-       
-       [PRIVATE_SUBNET_DETAILS]
-       NAME = Private_Subnet
+    [PRIVATE_NETWORK_DETAILS]
+    NAME = My_Custom_network
+    
+    [PRIVATE_SUBNET_DETAILS]
+    NAME = Private_Subnet
 
 2. Network subnets
 
-       CIDR = 10.0.0.0/24
-       IP_VERSION = 4
-       GATEWAY_IP = 10.0.0.1
-       START = 10.0.0.2
-       END = 10.0.0.25
+    CIDR = 10.0.0.0/24
+    IP_VERSION = 4
+    GATEWAY_IP = 10.0.0.1
+    START = 10.0.0.2
+    END = 10.0.0.25
 
 
 Flat network configuration
