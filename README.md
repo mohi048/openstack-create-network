@@ -16,10 +16,10 @@ USAGE
 
 Needs the following package to be present on your environment
 
-gcc
-python-devel
-python-virtualenv
-python-pip
+    gcc
+    python-devel
+    python-virtualenv
+    python-pip
 
 Create  virtualenv and activate
 
@@ -50,13 +50,11 @@ Execute the command
 
 This would create the two networks and a router
 
- - Public 
- - Private
- - Router
+    Public 
+    Private
+    Router
  
 
-Update 
-![ScreenShot](https://github.com/mohi048/openstack-create-instance/master/snapshot-create-instance.png)
 
 Customizing the new network setup
 -------------
