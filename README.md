@@ -27,10 +27,10 @@ Create  virtualenv and activate
     cd test
     source bin/activate
  
- Download the file
+ Download the remote git repositry
  
 
-     cd openstack-create-instance
+     cd openstack-create-network
      pip install -r requirements.txt
 
 Update config.ini based on your openstack environment and it should be on its location
