@@ -59,11 +59,12 @@ This would create the two networks and a router
 Customizing the new network setup
 -------------
 1. Network name
+
 Update the config.ini and update the following tags
 
     [PRIVATE_NETWORK_DETAILS]
     NAME = My_Custom_network
-    
+
     [PRIVATE_SUBNET_DETAILS]
     NAME = Private_Subnet
 
